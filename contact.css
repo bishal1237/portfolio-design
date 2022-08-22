@@ -10,7 +10,9 @@
     justify-content: center;
     background-color: aquamarine;
     width: 100%;
-    height: 100vh;
+    padding-top: 2rem;
+    height: max-content;
+    
 }
 
 .form{
@@ -103,3 +105,4 @@
     background-color: #ccc;
     margin-top: 15px;
 }
+
